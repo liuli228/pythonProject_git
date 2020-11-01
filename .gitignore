@@ -1,4 +1,6 @@
 /logs/*.lock
-/logs/*.log
+/logs/case_log
+/logs/__init__.py
 /report/API_TEST_V*
+/report/__init__.py
 /.idea/
