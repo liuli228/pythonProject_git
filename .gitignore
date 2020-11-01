@@ -1,6 +1,3 @@
-/logs/case_log.log
-!/logs/*.lock
-!/logs/__init__.py
-/report/API_TEST_V*
-!/report/__init__.py
+/logs/
+/report/
 /.idea/
