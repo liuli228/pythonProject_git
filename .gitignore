@@ -1,5 +1,5 @@
 /logs/*.lock
-/logs/case_log
+/logs/case_log.log
 /logs/__init__.py
 /report/API_TEST_V*
 /report/__init__.py
